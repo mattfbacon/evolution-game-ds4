@@ -1,0 +1,14 @@
+{
+  "name": "evolution-game-ds4",
+  "version": "0.0.1",
+  "description": "Evolution quiz game in Node.js for Design Challenge 4",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "json-stringify-safe": "^5.0.1",
+    "socket.io": "^2.3.0",
+    "utf-8-validate": "^5.0.2"
+  }
+}

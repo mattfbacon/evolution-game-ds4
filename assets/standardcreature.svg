@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="standardcreature.svg"
+   inkscape:export-filename="/home/matt/Desktop/ds4game/assets/2/3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="86.319915"
+     inkscape:cy="206.48432"
+     inkscape:document-units="px"
+     inkscape:current-layer="g970"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-823.6)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;vector-effect:none;fill:#f1879b;fill-opacity:1;stroke:none;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.60000038;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path812"
+       sodipodi:sides="14"
+       sodipodi:cx="125"
+       sodipodi:cy="948.59998"
+       sodipodi:r1="116.47429"
+       sodipodi:r2="122.60452"
+       sodipodi:arg1="-1.8304965"
+       sodipodi:arg2="-1.606097"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 95.090475,836.03142 25.582405,-9.95958 26.22124,8.13011 27.37024,2.12652 20.097,18.70195 23.73708,13.79143 9.99229,25.56963 15.4025,22.72479 -2.09151,27.37294 4.01726,27.15721 -13.76105,23.7547 -8.16366,26.21078 -22.70505,15.4316 -18.72765,20.073 -27.15205,4.052 -25.5824,9.9596 -26.22124,-8.1301 -27.370244,-2.1265 -20.096995,-18.702 L 31.90156,1028.3781 21.909266,1002.8085 6.5067722,980.08368 8.5982751,952.71075 4.5810212,925.55353 18.342074,901.79884 26.505726,875.58801 49.210782,860.15647 67.938429,840.0834 Z" />
+    <g
+       id="g970"
+       style="fill:#400d17;fill-opacity:1">
+      <circle
+         r="8.9450064"
+         cy="922.72931"
+         cx="97.758369"
+         id="path818"
+         style="opacity:1;vector-effect:none;fill:#400d17;fill-opacity:1;stroke:none;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.60000038;stroke-opacity:1;paint-order:stroke fill markers" />
+      <circle
+         r="8.9450064"
+         cy="922.72931"
+         cx="152.24162"
+         id="path818-8"
+         style="opacity:1;vector-effect:none;fill:#400d17;fill-opacity:1;stroke:none;stroke-width:0.95999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.60000038;stroke-opacity:1;paint-order:stroke fill markers" />
+      <ellipse
+         ry="5.4035487"
+         rx="51.922764"
+         cy="977.50702"
+         cx="125"
+         id="path835"
+         style="opacity:1;vector-effect:none;fill:#400d17;fill-opacity:1;stroke:none;stroke-width:0.96000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.60000038;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <text
+       id="text948"
+       y="686.20648"
+       x="-152.02795"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.24000001;font-family:sans-serif;letter-spacing:-0.22px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="686.20648"
+         x="-152.02795"
+         id="tspan946"
+         sodipodi:role="line">Fur: spoke ratio: much = 0.7, medium = 0.8, low = 0.9</tspan></text>
+    <text
+       id="text952"
+       y="708.93494"
+       x="-150.00764"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.24000001;font-family:sans-serif;letter-spacing:-0.22px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="708.93494"
+         x="-150.00764"
+         id="tspan950"
+         sodipodi:role="line">Color: hue of body and face</tspan></text>
+    <text
+       id="text956"
+       y="736.71411"
+       x="-148.49242"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.24000001;font-family:sans-serif;letter-spacing:-0.22px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="736.71411"
+         x="-148.49242"
+         id="tspan954"
+         sodipodi:role="line">Mouth size: mouth height: large = 30px, medium = 20px, small = 10px  </tspan></text>
+  </g>
+</svg>
